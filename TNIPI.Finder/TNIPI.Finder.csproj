@@ -1,0 +1,115 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{29928437-0FA6-499D-B5B4-49409804B491}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TNIPI.Finder</RootNamespace>
+    <AssemblyName>TNIPI.Finder</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>C:\Schlumberger\output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>C:\Schlumberger\output\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Slb.Ocean.Data, Version=3.2008.12.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.Basics, Version=3.2010.1.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Schlumberger\Petrel 2010\Public\Slb.Ocean.Petrel.Basics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.DomainObject, Version=3.2010.1.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Schlumberger\Petrel 2010\Public\Slb.Ocean.Petrel.DomainObject.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Slb.Ocean.Units, Version=3.2008.12.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="system.drawing" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="system.windows.forms" />
+    <Reference Include="Slb.Ocean.Core">
+      <Name>Slb.Ocean.Core</Name>
+      <HintPath>c:\schlumberger\petrel 2010\Public\slb.ocean.core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel">
+      <Name>Slb.Ocean.Petrel</Name>
+      <HintPath>c:\schlumberger\petrel 2010\Public\slb.ocean.petrel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Slb.Ocean.Basics">
+      <Name>Slb.Ocean.Basics</Name>
+      <HintPath>c:\schlumberger\petrel 2010\Public\Slb.Ocean.Basics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Slb.Ocean.Geometry">
+      <Name>Slb.Ocean.Geometry</Name>
+      <HintPath>c:\schlumberger\petrel 2010\Public\Slb.Ocean.Geometry.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="TNIPI.FinderShared, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common.cs" />
+    <Compile Include="FinderProxy.cs" />
+    <Compile Include="LoadWells.cs" />
+    <Compile Include="TNIPIFinder.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UpdateWells.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Module.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+		Other similar extension points exist, see Microsoft.Common.targets.
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

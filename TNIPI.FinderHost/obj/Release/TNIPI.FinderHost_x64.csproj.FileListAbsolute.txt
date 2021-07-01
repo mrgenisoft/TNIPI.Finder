@@ -1,0 +1,20 @@
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\ResolveAssemblyReference.cache
+c:\schlumberger\petrel 2009\Extensions\TNIPI.FinderHost_x64.exe
+c:\schlumberger\petrel 2009\Extensions\TNIPI.FinderHost_x64.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\TNIPI.FinderHost_x64.exe
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\TNIPI.FinderHost_x64.pdb
+c:\schlumberger\petrel 2010\Extensions\TNIPI.FinderHost_x64.exe
+c:\schlumberger\petrel 2010\Extensions\TNIPI.FinderHost_x64.pdb
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\TNIPI.FinderHost_x64.exe
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\TNIPI.FinderHost_x64.pdb
+C:\Program Files (x86)\Schlumberger\Petrel 2010\Extensions\TNIPI.FinderHost_x64.exe
+C:\Program Files (x86)\Schlumberger\Petrel 2010\Extensions\TNIPI.FinderHost_x64.pdb
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\ResolveAssemblyReference.cache
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\TNIPI.FinderHost_x64.exe
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\TNIPI.FinderHost_x64.pdb
+C:\Schlumberger\output\TNIPI.FinderHost_x64.exe
+C:\Schlumberger\output\TNIPI.FinderHost_x64.pdb
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\ResolveAssemblyReference.cache
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\TNIPI.FinderHost_x64.exe
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderHost\obj\Release\TNIPI.FinderHost_x64.pdb

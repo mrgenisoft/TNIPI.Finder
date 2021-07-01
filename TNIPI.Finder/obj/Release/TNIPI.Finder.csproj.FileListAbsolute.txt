@@ -1,0 +1,29 @@
+c:\schlumberger\petrel 2009\Extensions\TNIPI.Finder.dll
+c:\schlumberger\petrel 2009\Extensions\TNIPI.Finder.pdb
+C:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\ResolveAssemblyReference.cache
+C:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\TNIPI.Finder.dll
+C:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\TNIPI.Finder.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\TNIPI.Finder.dll
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\TNIPI.Finder.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\TNIPI.Finder.LoadWellsWizardUI.resources
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\TNIPI.Finder.csproj.GenerateResource.Cache
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.Finder\obj\Release\TNIPI.Finder.dll.licenses
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.Finder\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.Finder\obj\Release\TNIPI.Finder.dll
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.Finder\obj\Release\TNIPI.Finder.pdb
+c:\schlumberger\petrel 2010\Extensions\TNIPI.Finder.dll
+c:\schlumberger\petrel 2010\Extensions\TNIPI.Finder.pdb
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\TNIPI.Finder.dll
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\TNIPI.Finder.pdb
+C:\Program Files (x86)\Schlumberger\Petrel 2010\Extensions\TNIPI.Finder.dll
+C:\Program Files (x86)\Schlumberger\Petrel 2010\Extensions\TNIPI.Finder.pdb
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\ResolveAssemblyReference.cache
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\TNIPI.Finder.dll
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\TNIPI.Finder.pdb
+C:\Schlumberger\output\TNIPI.Finder.dll
+C:\Schlumberger\output\TNIPI.Finder.pdb
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\ResolveAssemblyReference.cache
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\TNIPI.Finder.dll
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.Finder\obj\Release\TNIPI.Finder.pdb

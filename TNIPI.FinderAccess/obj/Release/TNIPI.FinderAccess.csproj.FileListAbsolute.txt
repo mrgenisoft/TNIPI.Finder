@@ -1,0 +1,22 @@
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderAccess\bin\Release\TNIPI.FinderAccess.dll
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderAccess\bin\Release\TNIPI.FinderAccess.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\TNIPI.FinderAccess.dll
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\TNIPI.FinderAccess.pdb
+c:\schlumberger\petrel 2009\Extensions\TNIPI.FinderAccess.dll
+c:\schlumberger\petrel 2009\Extensions\TNIPI.FinderAccess.pdb
+c:\schlumberger\petrel 2010\Extensions\TNIPI.FinderAccess.dll
+c:\schlumberger\petrel 2010\Extensions\TNIPI.FinderAccess.pdb
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\TNIPI.FinderAccess.dll
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\TNIPI.FinderAccess.pdb
+C:\Program Files (x86)\Schlumberger\Petrel 2010\Extensions\TNIPI.FinderAccess.dll
+C:\Program Files (x86)\Schlumberger\Petrel 2010\Extensions\TNIPI.FinderAccess.pdb
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\ResolveAssemblyReference.cache
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\TNIPI.FinderAccess.dll
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\TNIPI.FinderAccess.pdb
+C:\Schlumberger\output\TNIPI.FinderAccess.dll
+C:\Schlumberger\output\TNIPI.FinderAccess.pdb
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\ResolveAssemblyReference.cache
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\TNIPI.FinderAccess.dll
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderAccess\obj\Release\TNIPI.FinderAccess.pdb

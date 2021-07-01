@@ -1,0 +1,10 @@
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.FinderHost\bin\Debug\TNIPI.FinderHost.dll
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.FinderHost\bin\Debug\TNIPI.FinderHost.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.FinderHost\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.FinderHost\obj\Debug\TNIPI.FinderHost.pdb
+c:\schlumberger\petrel 2009\Extensions\TNIPI.FinderHost.exe
+c:\schlumberger\petrel 2009\Extensions\TNIPI.FinderHost.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.FinderHost\obj\Debug\TNIPI.FinderHost.exe
+C:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.FinderHost\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.FinderHost\obj\Debug\TNIPI.FinderHost.exe
+C:\PROJECT\Ocean 2009\TNIPI.Finder\TNIPI.FinderHost\obj\Debug\TNIPI.FinderHost.pdb

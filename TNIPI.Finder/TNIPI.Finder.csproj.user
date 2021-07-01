@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\Schlumberger\Petrel 2010\Petrel.exe</StartProgram>
+    <StartWorkingDirectory>C:\Program Files\Schlumberger\Petrel 2010\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Schlumberger\Public\Petrel 2010.1\</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Schlumberger\Petrel 2010\Petrel.exe</StartProgram>
+    <StartWorkingDirectory>C:\Schlumberger\Petrel 2010\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

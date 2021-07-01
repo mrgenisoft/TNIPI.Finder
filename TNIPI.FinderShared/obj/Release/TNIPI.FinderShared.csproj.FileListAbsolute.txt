@@ -1,0 +1,22 @@
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderShared\bin\Release\TNIPI.FinderShared.dll
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderShared\bin\Release\TNIPI.FinderShared.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\TNIPI.FinderShared.dll
+D:\PROJECT\Ocean 2009\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\TNIPI.FinderShared.pdb
+c:\schlumberger\petrel 2009\Extensions\TNIPI.FinderShared.dll
+c:\schlumberger\petrel 2009\Extensions\TNIPI.FinderShared.pdb
+c:\schlumberger\petrel 2010\Extensions\TNIPI.FinderShared.dll
+c:\schlumberger\petrel 2010\Extensions\TNIPI.FinderShared.pdb
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\TNIPI.FinderShared.dll
+D:\PROJECT\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\TNIPI.FinderShared.pdb
+C:\Program Files (x86)\Schlumberger\Petrel 2010\Extensions\TNIPI.FinderShared.dll
+C:\Program Files (x86)\Schlumberger\Petrel 2010\Extensions\TNIPI.FinderShared.pdb
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\ResolveAssemblyReference.cache
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\TNIPI.FinderShared.dll
+I:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\TNIPI.FinderShared.pdb
+C:\Schlumberger\output\TNIPI.FinderShared.dll
+C:\Schlumberger\output\TNIPI.FinderShared.pdb
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\ResolveAssemblyReference.cache
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\TNIPI.FinderShared.dll
+F:\Ocean 2010\TNIPI.Finder.3\TNIPI.FinderShared\obj\Release\TNIPI.FinderShared.pdb
